@@ -64,3 +64,65 @@ http://otv.ftpbd.net/streams/123/index.m3u8
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",national geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+
+================================= Usee TV ============================================================================
+#EXTINF:-1 tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="" group-title="UseeTV",ANIMAX
+https://vcdnjt.useetv.com/dass/14/animax/chunklist_w1214507886_b684100_sleng.m3u8
+#EXTINF:-1 tvg-id="ANIPLUS" tvg-name="ANIPLUS" tvg-logo="" group-title="UseeTV",ANIPLUS
+https://vcdnjt.useetv.com/dass/14/aniplus/chunklist_w2036078111_b684100_sleng.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="" group-title="UseeTV",AXN
+https://vcdnjt.useetv.com/dass/15/axn/chunklist_w419536097_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-id="BIOSKOP INDONESIA" tvg-name="BIOSKOP INDONESIA" tvg-logo="" group-title="UseeTV",BIOSKOP INDONESIA
+https://vcdnjt.useetv.com/dass/14/bioskopindonesia/chunklist_w926906918_b684100_sleng.m3u8
+#EXTINF:-1 tvg-id="BLUE ANT" tvg-name="BLUE ANT" tvg-logo="" group-title="UseeTV",BLUE ANT
+https://vcdnjt.useetv.com/dass/14/blueant/chunklist_w488577255_b684100_sleng.m3u8
+#EXTINF:-1 tvg-id="BLUEANTEXTREME" tvg-name="BLUEANTEXTREME" tvg-logo="" group-title="UseeTV",BLUEANTEXTREME
+https://vcdnjt.useetv.com/dass/14/blueantextreme/chunklist_w1112218992_b684100_sleng.m3u8
+#EXTINF:-1 tvg-id="CELESTIALMOVIE" tvg-name="CELESTIALMOVIE" tvg-logo="" group-title="UseeTV",CELESTIALMOVIE
+https://vcdnjt.useetv.com/dass/14/celestialmovie/chunklist_w517300640_b684100_sleng.m3u8
+#EXTINF:-1 tvg-id="CHINESEDRAMA" tvg-name="CHINESEDRAMA" tvg-logo="" group-title="UseeTV",CHINESEDRAMA
+https://vcdnjt.useetv.com/dass/14/chinesedrama/chunklist_w643364079_b684100_sleng.m3u8
+#EXTINF:-1 tvg-id="CINEMAWORLD" tvg-name="CINEMAWORLD" tvg-logo="" group-title="UseeTV",CINEMAWORLD
+https://vcdnjt.useetv.com/dass/14/cinemaworld/chunklist_w186136061_b684100_sleng.m3u8
+#EXTINF:-1 tvg-id="CITRADRAMA" tvg-name="CITRADRAMA" tvg-logo="" group-title="UseeTV",CITRADRAMA
+https://vcdnjt.useetv.com/dass/14/cdrama/chunklist_w188816236_b684100_sleng.m3u8
+#EXTINF:-1 tvg-id="DUNIALAIN" tvg-name="DUNIALAIN" tvg-logo="" group-title="UseeTV",DUNIALAIN
+https://vcdnjt.useetv.com/dass/14/dunialain/chunklist_w1493432133_b684100_sleng.m3u8
+#EXTINF:-1 tvg-id="FLIK" tvg-name="FLIK" tvg-logo="" group-title="UseeTV",FLIK
+https://vcdnjt.useetv.com/dass/15/flik/chunklist_w1416462540_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-id="GALAXY" tvg-name="GALAXY" tvg-logo="" group-title="UseeTV",GALAXY
+https://vcdnjt.useetv.com/dass/15/galaxy/chunklist_w1505664206_b894100_sleng.m3u8
+#EXTINF:-1 tvg-id="GALAXYPREM" tvg-name="GALAXYPREM" tvg-logo="" group-title="UseeTV",GALAXYPREM
+https://vcdnjt.useetv.com/dass/15/galaxypremium/chunklist_w1051467648_b894100_sleng.m3u8
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="" group-title="UseeTV",History
+https://vcdnjt.useetv.com/dass/15/history/chunklist_w18288420_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-id="IMC" tvg-name="IMC" tvg-logo="" group-title="UseeTV",IMC
+https://vcdnjt.useetv.com/dass/14/imc/chunklist_w1551175627_b684100_sleng.m3u8
+#EXTINF:-1 tvg-id="K+" tvg-name="K+" tvg-logo="" group-title="UseeTV",K+
+https://vcdnjt.useetv.com/dass/15/kplus/chunklist_w355930518_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" tvg-logo="" group-title="UseeTV",KBS World
+https://vcdnjt.useetv.com/dass/15/kbsworld/chunklist_w329845213_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-id="Kix" tvg-name="Kix" tvg-logo="" group-title="UseeTV",Kix
+https://vcdnjt.useetv.com/dass/15/kix/chunklist_w903421055_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="" group-title="UseeTV",Lifetime
+https://vcdnjt.useetv.com/dass/14/lifetime/chunklist_w552761675_b684100_sleng.m3u8
+#EXTINF:-1 tvg-id="Outdoor CHANNEL" tvg-name="Outdoor CHANNEL" tvg-logo="" group-title="UseeTV",Outdoor CHANNEL
+https://vcdnjt.useetv.com/dass/14/outdoor/chunklist_w108040563_b944100_sleng.m3u8
+#EXTINF:-1 tvg-id="Sony GEM TV" tvg-name="Sony GEM TV" tvg-logo="" group-title="UseeTV",Sony GEM TV
+https://vcdnjt.useetv.com/dass/15/sgem/chunklist_w980546509_b894100_sleng.m3u8
+#EXTINF:-1 tvg-id="Sony One" tvg-name="Sony One" tvg-logo="" group-title="UseeTV",Sony One
+https://vcdnjt.useetv.com/dass/15/sone/chunklist_w1550481774_b894100_sleng.m3u8
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="" group-title="UseeTV",Thrill
+https://vcdnjt.useetv.com/dass/14/thrill/chunklist_w571099112_b684100_sleng.m3u8
+#EXTINF:-1 tvg-id="TV5Monde" tvg-name="TV5Monde" tvg-logo="" group-title="UseeTV",TV5Monde
+https://vcdnjt.useetv.com/dass/14/tv5monde/chunklist_w1249603055_b684100_sleng.m3u8
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="" group-title="UseeTV",TVN
+https://vcdnjt.useetv.com/dass/15/tvn/chunklist_w450752436_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-id="TVN Movies" tvg-name="TVN Movies" tvg-logo="" group-title="UseeTV",TVN Movies
+https://vcdnjt.useetv.com/dass/15/tvnmovies/chunklist_w810050621_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-id="Waku Waku Japan" tvg-name="Waku Waku Japan" tvg-logo="" group-title="UseeTV",Waku Waku Japan
+https://vcdnjt.useetv.com/dass/15/wakuwaku/chunklist_w353386131_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-id="Warner" tvg-name="Warner" tvg-logo="" group-title="UseeTV",Warner
+https://vcdnjt.useetv.com/dass/15/warner/chunklist_w631373285_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-id="ZBioskop" tvg-name="ZBioskop" tvg-logo="" group-title="UseeTV",ZBioskop
+https://vcdnjt.useetv.com/dass/14/zbioskop/chunklist_w895232882_b684100_sleng.m3u8
