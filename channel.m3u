@@ -21,26 +21,26 @@ http://210.210.155.35/session/62c3f4aa-7aec-11ea-b162-c81f66f89318/qwr9ew/s/s04/
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 #EXTINF:-1 tvg-id="JTV" tvg-name="JTV" tvg-logo="" group-title="indonesia",JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",KOMPAS TV
+#EXTINF:-1 tvg-id="KOMPAS TV" tvg-name="KOMPAS TV" tvg-logo="" group-title="indonesia",KOMPAS TV
 #EXTVLCOPT:network-caching=1000
 http://rr2.dens.tv/s/s104/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",METRO TV
+#EXTINF:-1 tvg-id="METRO TV" tvg-name="METRO TV" tvg-logo="" group-title="indonesia",METRO TV
 http://188.40.76.108:25461/mytv01/uSIRzmks51/142
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",MNC TV
+#EXTINF:-1 tvg-id="MNC TV" tvg-name="MNC TV" tvg-logo="" group-title="indonesia",MNC TV
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",RODJATV
+#EXTINF:-1 tvg-id="RODJATV" tvg-name="RODJATV" tvg-logo="" group-title="indonesia",RODJATV
 http://rr2.dens.tv/s/s14/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",SCTV
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="" group-title="indonesia",SCTV
 http://210.210.155.35/qwr9ew/s/s03/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",TRANS 7
+#EXTINF:-1 tvg-id="TRANS 7" tvg-name="TRANS 7" tvg-logo="" group-title="indonesia",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",TRANS TV
+#EXTINF:-1 tvg-id="TRANS TV" tvg-name="TRANS TV" tvg-logo="" group-title="indonesia",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",TVONE
+#EXTINF:-1 tvg-id="TVONE" tvg-name="TVONE" tvg-logo="" group-title="indonesia",TVONE
 http://chostv.mobie.in/files/iptv/tvone.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",TVRI
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="" group-title="indonesia",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",RCTI
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="" group-title="indonesia",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",Net TV
 http://45.126.83.51/qwr9ew/s/s08/01.m3u8
