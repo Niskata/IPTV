@@ -44,8 +44,10 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",Net TV
 http://45.126.83.51/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="http://www.transvision.co.id/images/channel/animax.png" group-title="indonesia",Animax
+#EXTINF:-1 tvg-id="Animax 2" tvg-name="Animax 2" tvg-logo="http://www.transvision.co.id/images/channel/animax.png" group-title="indonesia",Animax
 https://list.iptvcat.com/my_list/s/411d6172b558b5ee855747481aa5bd5e.m3u8
+#EXTINF:-1 tvg-id="Animax 1" tvg-name="Animax 1" tvg-logo="http://www.transvision.co.id/images/channel/animax.png" group-title="indonesia",Animax
+http://210.210.155.35/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" tvg-logo="" group-title="indonesia",Aniplus
 https://list.iptvcat.com/my_list/s/594d8786201cc30adc2b195dc4a20486.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",CNBC
