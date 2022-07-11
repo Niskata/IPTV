@@ -1,4 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="VISION PLUS",TRANS 7
+#EXTINF:-1 group-title="VISION PLUS",RCTI
+#EXTVLCOPT:
 https://dtaarjaj1diy9.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
