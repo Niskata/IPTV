@@ -67,3 +67,8 @@ http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D34
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",national geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 
+////// MPD 
+
+#EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",CHANNEL 4U
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/manifest.mpd
