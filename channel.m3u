@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Lokal",RTV
-https://etslive-2-vidio-com.akamaized.net/exp=1657568377~acl=/hls-p/ingest_1561_*/*~hmac=7291d11301d2d7f1c7f1291b3350bfb121baa9f7152ccbf6ef6f42f8661750bf/hls-p/ingest_1561_480p/index.m3u8
+#EXTINF:-1 group-title="VISION PLUS",TRANS 7
+https://dtaarjaj1diy9.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
