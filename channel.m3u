@@ -1,5 +1,5 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="VISION PLUS",RCTI
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+#EXTVLCOPT:user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 OPR/89.0.4447.38"
 https://dtaarjaj1diy9.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
