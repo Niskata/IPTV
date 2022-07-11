@@ -68,6 +68,8 @@ http://otv.ftpbd.net/streams/123/index.m3u8
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",national geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 group-title="indonesia",Celestial Movies
+https://chostv.mobie.in/channel/movies/cmovies.m3u8
 
 ////// MPD 
 
