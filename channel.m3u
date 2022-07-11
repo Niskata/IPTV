@@ -16,7 +16,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="" group-title="indonesia",GTV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 #EXTINF:-1 tvg-id="INDOSIAR" tvg-name="INDOSIAR" tvg-logo="" group-title="indonesia",INDOSIAR
-http://210.210.155.35/session/62c3f4aa-7aec-11ea-b162-c81f66f89318/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=d0cu4j7cnm&tkn=BEMV9570E7UC93I64J3E6KFTM2B2NMJK&chname=IndosiarC&chname=Indosiar
+https://fvtv.mywire.org/playlist/id/002.m3u8
 #EXTINF:-1 tvg-id="INEWS TV" tvg-name="INEWS TV" tvg-logo="" group-title="indonesia",INEWS TV
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 #EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="" group-title="indonesia",RTV
