@@ -75,4 +75,4 @@ https://etslive-2-vidio-com.akamaized.net/exp=1657568377~acl=/hls-p/ingest_1561_
 
 #EXTINF:-1 tvg-logo="TEST" group-title="Indonesia1",CHANNEL 4U
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-https://etslive-2-vidio-com.akamaized.net/exp=1658591467~acl=/vp9/9303_stream.mpd!/vp9/9303/*!/vp9/*/9303_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1658591624~acl=/vp9/9303_stream.mpd!/vp9/9303/*!/vp9/*/9303_stream.mpd!/vp9/*/9303/*~hmac=be103f5af77659aab9d0246afc303a2a4d559cd906a5f20d3b4f1ec36fecc4ff/vp9/9303_stream.mpd
